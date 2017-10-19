@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Professional RoadMap</string>
+    <string name="key_name">name</string>
+    <string name="signals_from_mars_title_image">Signals from Mars title image</string>
+    <string name="start_your_adventure">START YOUR JOURNEY</string>
+    <string name="enter_your_name">Enter your name</string>
+
+    <string name="page0" formatted="false">Hello %1$s , set up your professional life.%nYou have just been born, the biggest milestones are to walk and speak.%nKeep training until you succeed then go to your next milestone.</string>
+    <string name ="page0_choice1">Keep Training! </string>
+    <string name ="page0_choice2">I can walk and speak!</string>
+
+    <string name="page1" formatted="false">You know how to walk and talk.%nThe years are passing....%nIf you are 6 years old choose to go to school or  choose to play a bit more until you’ll be 6.</string>
+    <string name="page1_choice1">I’m too young!</string>
+    <string name="page1_choice2">Let’go to school!</string>
+
+    <string name="page2" formatted="false">You have finished primary and middle school.%nMeanwhile you have learned about yourself and the world around you.%nThe time has come to choose your high school:</string>
+    <string name="page2_choice1">Human Sciences </string>
+    <string name="page2_choice2">Technical Sciences </string>
+
+    <string name="page3" formatted="false">High school was a lot of fun. You have made lots of friends and learned a lot more.%nIt will be interesting and useful to attend college also.%nWhich college do you want to attend?</string>
+    <string name="page3_choice1">Law School</string>
+    <string name="page3_choice2">Music Academy </string>
+
+    <string name="page4" formatted="false">@string/page3</string>
+    <string name="page4_choice1">Computer Science </string>
+    <string name="page4_choice2">Med School</string>
+
+    <string name="page5" formatted="false">Well done! You have graduted college.%nWith the skills acquired, it’s time to get a job so you can contribute to society and also make a living.%nWhich job do you want to pursue?</string>
+    <string name="page5_choice1">Lawyer </string>
+    <string name="page5_choice2">Judge</string>
+
+    <string name="page6" formatted="false">@string/page5</string>
+    <string name="page6_choice1">Singer </string>
+    <string name="page6_choice2">Producer</string>
+
+    <string name="page7" formatted="false">@string/page5</string>
+    <string name="page7_choice1">Surgeon </string>
+    <string name="page7_choice2">Researcher</string>
+
+    <string name="page8" formatted="false">@string/page5</string>
+    <string name="page8_choice1">Software Engineer</string>
+    <string name="page8_choice2">Hardware Engineer</string>
+
+
+    <string name="page9" formatted="false">Congratulations %1$s! %n
+        You are now a professional! %n
+        A brief summary of your journey is: %n
+        1. You were born, learned to walk, speak and graduated from primary and middle school. %n
+        2. The highschool you graduated is: %2$s. %n
+        3. The college you graduated is: %3$s. %n
+        4. Your current job is: %4$s.</string>
+
+
+    <string name="story_image_content_description">Story page image</string>
+    <string name="play_again_button_text">PLAY AGAIN</string>
+</resources>
